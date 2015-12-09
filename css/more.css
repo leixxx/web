@@ -1,0 +1,274 @@
+.version.more /* version checker */
+{
+	color: #0000E2;
+	background-color: #E08C79;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1000px;
+	min-height: 585px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 25px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u327-20
+{
+	z-index: 187;
+	width: 45px;
+	min-height: 173px;
+	background-color: transparent;
+	text-align: center;
+	line-height: 15px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 50px;
+	left: 90px;
+}
+
+#u327-20:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 173px;
+	width: 45px;
+	margin: 50px -10000px 0px 0px;
+}
+
+#u327-20:hover p,#u327-20:hover span
+{
+	color: #555555;
+	visibility: inherit;
+	font-size: 20px;
+	letter-spacing: 20px;
+	font-family: stenciletta-left, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#u327-2,#u327-4,#u327-6,#u327-8,#u327-10,#u327-12,#u327-14,#u327-16,#u327-18
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u327,#u327-3,#u327-5,#u327-7,#u327-9,#u327-11,#u327-13,#u327-15,#u327-17
+{
+	font-size: 20px;
+	line-height: 22px;
+}
+
+#slideshowu313
+{
+	z-index: 2;
+	width: 0.01px;
+	height: 500px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 85px;
+	left: 208px;
+}
+
+#u314
+{
+	position: absolute;
+	width: 484px;
+	height: 360px;
+	background-color: transparent;
+	left: 50px;
+}
+
+#u314popup
+{
+	z-index: 3;
+}
+
+#u315
+{
+	z-index: 4;
+	width: 484px;
+	height: 360px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u315_clip
+{
+	overflow: hidden;
+	width: 484px;
+	height: 360px;
+}
+
+#u315_img
+{
+	margin-top: 43px;
+	margin-right: -1px;
+	margin-bottom: 43px;
+}
+
+#u431
+{
+	z-index: 6;
+	width: 484px;
+	height: 360px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u431_img
+{
+	padding-top: 45px;
+	padding-bottom: 45px;
+}
+
+#u447
+{
+	z-index: 8;
+	width: 484px;
+	height: 360px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u447_img
+{
+	padding-top: 47px;
+	padding-bottom: 47px;
+}
+
+#u322
+{
+	position: absolute;
+	width: 151px;
+	background-color: transparent;
+	left: 618px;
+}
+
+#u322popup
+{
+	z-index: 10;
+}
+
+#u323-63
+{
+	z-index: 11;
+	width: 131px;
+	min-height: 480px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 10px;
+	text-align: left;
+	line-height: 14px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u437-54
+{
+	z-index: 74;
+	width: 131px;
+	min-height: 480px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 10px;
+	text-align: left;
+	line-height: 14px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u453-51
+{
+	z-index: 128;
+	width: 131px;
+	min-height: 480px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 10px;
+	text-align: left;
+	line-height: 14px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u321-4
+{
+	position: absolute;
+	width: 10px;
+	min-height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 10px;
+	color: #999999;
+	text-align: center;
+	line-height: 20px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	top: 160px;
+	left: 554px;
+}
+
+#u321-4popup
+{
+	z-index: 179;
+}
+
+#u326-4
+{
+	position: absolute;
+	width: 10px;
+	min-height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 10px;
+	color: #999999;
+	text-align: center;
+	line-height: 20px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	top: 160px;
+}
+
+#u326-4popup
+{
+	z-index: 183;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+body
+{
+	position: relative;
+	min-width: 1000px;
+}
+
