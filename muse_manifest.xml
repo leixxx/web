@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.LEIX.com" resolutions="1x" timestamp="1449592261130">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.LEIXXX.com,www.http://leixxx.github.io/web" resolutions="1x" timestamp="1451358445388">
   <folder name="css">
-    <file name="site_global.css" crc="187162479"/>
-    <file name="index.css" crc="146228410" ref="index"/>
-    <file name="more.css" crc="3806366841" ref="more"/>
+    <file name="site_global.css" crc="4045901235"/>
+    <file name="more.css" crc="3865865220" ref="more"/>
+    <file name="index.css" crc="3775263668" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:more"/>
@@ -16,9 +16,10 @@
     <file name="form_check.php" crc="3932029206" ref="index"/>
     <file name="form_throttle.php" crc="314685628" ref="index"/>
     <file name="form_process.php" crc="401030677" ref="index"/>
-    <file name="form-u2012.php" crc="290574087" ref="index"/>
+    <file name="form-u2012.php" crc="4128654973" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="scrolldown.png" crc="76494489" seo="true" ref="index"/>
     <file name="skills_logo1.png" crc="3806601563" seo="true" ref="index"/>
     <file name="skills_logo2.png" crc="333117620" seo="true" ref="index"/>
     <file name="skills_logo3.png" crc="4186156525" seo="true" ref="index"/>
@@ -30,36 +31,39 @@
     <file name="p1.jpg" crc="3776029021" seo="true" ref="index"/>
     <file name="p2.jpg" crc="160761013" seo="true" ref="index"/>
     <file name="b1.jpg" crc="304916797" seo="true" ref="index"/>
-    <file name="work_00.jpg" crc="317168115" seo="true" ref="index"/>
+    <file name="imgp0826.jpg" crc="182615205" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:more"/>
-    <file name="work_03.jpg" crc="333551166" seo="true" ref="index"/>
-    <file name="work_02.jpg" crc="465130372" seo="true" ref="index"/>
-    <file name="work_06.jpg" crc="443318456" seo="true" ref="index"/>
-    <file name="work_01.jpg" crc="3759648309" seo="true" ref="index"/>
-    <file name="work_04.jpg" crc="129926566" seo="true" ref="index"/>
-    <file name="work_05.jpg" crc="4280020048" seo="true" ref="index"/>
-    <file name="work_07.jpg" crc="25338086" seo="true" ref="index"/>
-    <file name="work_00-crop-u1834.jpg" crc="3913375827" ref="index"/>
-    <file name="work_03-crop-u1836.jpg" crc="70947731" ref="index"/>
-    <file name="work_02-crop-u1848.jpg" crc="86528081" ref="index"/>
-    <file name="work_06-crop-u1842.jpg" crc="1803631" ref="index"/>
-    <file name="work_01-crop-u1846.jpg" crc="4021520495" ref="index"/>
-    <file name="work_04-crop-u1844.jpg" crc="3892447576" ref="index"/>
-    <file name="work_05-crop-u1838.jpg" crc="3785047519" ref="index"/>
-    <file name="work_07-crop-u1840.jpg" crc="438566334" ref="index"/>
+    <file name="_dsc7540.jpg" crc="4072625267" seo="true" ref="index"/>
+    <file name="large_wwsy_4b8200003a751260.jpg" crc="4211916135" seo="true" ref="index"/>
+    <file name="startrails-1-1.jpg" crc="3978395680" seo="true" ref="index"/>
+    <file name="imgp1263.jpg" crc="4275618904" seo="true" ref="index"/>
+    <file name="img_3948.jpg" crc="446751414" seo="true" ref="index"/>
+    <file name="jpg83 (26).jpg" crc="364678697" seo="true" ref="index"/>
+    <file name="jpg83 (24).jpg" crc="4097420590" seo="true" ref="index"/>
+    <file name="imgp0826-crop-u1834.jpg" crc="4150733090" ref="index"/>
+    <file name="_dsc7540-crop-u1836.jpg" crc="3867811847" ref="index"/>
+    <file name="large_wwsy_4b8200003a751260-crop-u1848.jpg" crc="4143648524" ref="index"/>
+    <file name="12-crop-u1842.jpg" crc="3914473051" ref="index"/>
+    <file name="imgp1263-crop-u1846.jpg" crc="4275572902" ref="index"/>
+    <file name="img_3948-crop-u1844.jpg" crc="294927061" ref="index"/>
+    <file name="jpg83 (26)-crop-u1838.jpg" crc="523821627" ref="index"/>
+    <file name="jpg83 (24)-crop-u1840.jpg" crc="4272989887" ref="index"/>
     <file name="arrows-mn_arrow_left.png" crc="4126107877" ref="index"/>
     <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="index"/>
     <file name="arrows-mn_close.png" crc="206776778" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index:more"/>
-    <file name="u2014-17.png" crc="3904437901" ref="index"/>
-    <file name="u2014-17-r.png" crc="174039896" ref="index"/>
-    <file name="u2014-17-m.png" crc="4087376994" ref="index"/>
-    <file name="u2014-17-fs.png" crc="450571855" ref="index"/>
+    <file name="u2014-17.png" crc="369131111" ref="index"/>
+    <file name="u2014-17-r.png" crc="3872060486" ref="index"/>
+    <file name="u2014-17-m.png" crc="4056611325" ref="index"/>
+    <file name="u2014-17-fs.png" crc="4096974528" ref="index"/>
     <file name="contact2.jpg" crc="359390730" seo="true" ref="index"/>
+    <file name="connect_facebook.png" crc="3876898811" seo="true" ref="index"/>
+    <file name="connect_linkedin.png" crc="256232126" seo="true" ref="index"/>
+    <file name="connect_behance.png" crc="3877935168" seo="true" ref="index"/>
     <file name="more_m1.png" crc="3992534743" seo="true" ref="more"/>
     <file name="more_m2.png" crc="4292934701" seo="true" ref="more"/>
     <file name="more_m3.png" crc="34306716" seo="true" ref="more"/>
   </folder>
-  <file name="index.html" crc="145066126" seo="true" mt="1449591511430" redirect="true"/>
-  <file name="more.html" crc="4068259481" seo="true" mt="1449583959310" redirect="true"/>
+  <file name="index.html" crc="4121414262" seo="true" mt="1451358397973" redirect="true"/>
+  <file name="more.html" crc="387403625" seo="true" mt="1449692089897" redirect="true"/>
 </manifest>

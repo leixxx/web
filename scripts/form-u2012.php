@@ -29,27 +29,18 @@ $form = array(
 		'to' => 'lxiang@cca.edu'
 	),
 	'fields' => array(
-		'custom_U2015' => array(
-			'order' => 1,
-			'type' => 'string',
-			'label' => 'Name',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'Name\' is required.'
-			)
-		),
 		'Email' => array(
-			'order' => 2,
+			'order' => 1,
 			'type' => 'email',
-			'label' => 'Email',
+			'label' => 'FROM',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Email\' is required.',
-				'format' => 'Field \'Email\' has an invalid email.'
+				'required' => 'Field \'FROM\' is required.',
+				'format' => 'Field \'FROM\' has an invalid email.'
 			)
 		),
 		'custom_U2019' => array(
-			'order' => 3,
+			'order' => 2,
 			'type' => 'string',
 			'label' => 'Message',
 			'required' => false,

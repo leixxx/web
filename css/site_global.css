@@ -210,6 +210,14 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: 400;
 }
 
+.HOBBIES_ANNOTATED
+{
+	color: #3E3E3E;
+	font-family: bubbler-one, sans-serif;
+	font-weight: 400;
+	letter-spacing: 4px;
+}
+
 .list0 li:before
 {
 	position: absolute;
